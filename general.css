@@ -1,0 +1,26 @@
+* {
+	margin-top: 0px;
+}
+
+body {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;	
+
+	background: linear-gradient(#db2323, yellow, green);
+	background-attachment: fixed;
+}
+
+hr {
+	height: 5px;
+	border: 3px dashed green;
+	background: lightgreen;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 10px;
+}
+
+.title {
+	font-size: 85px;
+	color: green;
+	margin-bottom: 0px;
+}
